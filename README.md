@@ -10,4 +10,4 @@
 #### Demo影片
 https://www.youtube.com/watch?v=Ohd8ZbvpZLM
 ### 詳細書面報告
-[書面報告]([https://github.com/ChiaYunChung/database/blob/main/%E8%B3%87%E6%96%99%E5%BA%AB%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C.pdf](https://github.com/ChiaYunChung/management-system/blob/main/%E6%9C%9F%E6%9C%AB%E5%A0%B1%E5%91%8A.pdf))
+[書面報告](https://github.com/ChiaYunChung/database/blob/main/%E8%B3%87%E6%96%99%E5%BA%AB%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C.pdf)
