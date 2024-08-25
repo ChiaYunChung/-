@@ -1,0 +1,94 @@
+main{
+    max-width:  1320;
+    margin: 50px auto;
+    padding: 1% 5%;
+    margin-bottom: 1.5rem!important;
+}
+.mid{
+    display: flex;
+    /* 水平置中 */
+    justify-content: center;     
+    flex-wrap: wrap;
+}
+.tr_s{
+    width: 100px;
+}
+
+.entryTable
+{
+    width: 100%;
+    margin-bottom:30px;
+    border:3px solid #D6D6FF;
+    border-collapse: collapse;
+}
+.entryTable th,
+.entryTable td
+{
+    padding:10px 20px;
+    border:1px solid #D6D6FF;
+}
+.entryTable th
+{
+    width:10em;
+    background-color: #F5E8FF;
+    text-align: left;
+}
+.entryTable caption 
+{
+    margin-bottom:10px;
+}
+
+
+
+.entryTable textarea
+{
+    
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #CCCCFF;
+    box-sizing: border-box;
+    font-size: 1em;
+}
+.entryTable textarea:focus
+{
+    background-color: #F5E8FF;
+    outline: none;
+    border-left: 5px solid #E0B5FF;
+}
+
+label,
+input,
+textarea,
+select 
+{
+    cursor:pointer;
+}
+
+.entryBtns
+{
+    text-align: center;
+}
+.entryBtns input
+{
+    width: 200px;
+    margin: 0 10px;
+    padding: 10px;
+    background: #fff;
+    border: 2px solid #CCCCFF;
+    border-radius: 10px;
+    font-size: 1em;
+}
+
+.entryBtns input[type="submit"]
+{
+    background: #DBABFF;
+}
+.entryBtns input[type="button"]
+{
+    background: #DBABFF;
+}
+
+.entryBtns input:hover
+{
+    opacity: 0.7;
+}

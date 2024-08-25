@@ -1,0 +1,15 @@
+main{
+    max-width:  1320;
+    margin: 50px auto;
+    padding: 1% 5%;
+    margin-bottom: 1.5rem!important;
+}
+.mid{
+    display: flex;
+    /* 水平置中 */
+    justify-content: center;     
+    flex-wrap: wrap;
+}
+.tr_s{
+    width: 100px;
+}
